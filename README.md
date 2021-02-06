@@ -7,7 +7,8 @@ The purpose of the analysis is provide information to  W. Avy regarding temperat
 
 The three key differences in weather between June and December:
 1. The mean temperature is 75 in June and 71 in Dec
-![](https://github.com/esaer/Pewlett-Hackard-Analysis/blob/main/Title%20Count.PNG)
+![](https://github.com/esaer/surfs_up/blob/main/June%20temperature.PNG)
+![](https://github.com/esaer/surfs_up/blob/main/Dec%20temperature.PNG)
 2. The min temperature is 64 in June and 56 in Dec
 3. The max temperature is 85 in June and 83 in Dec
 
